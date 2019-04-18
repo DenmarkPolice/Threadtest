@@ -9,3 +9,14 @@ C:\Users\XALPE\Documents\Programmering\Threadtest\bin\Debug\netcoreapp2.1\Thread
 C:\Users\XALPE\Documents\Programmering\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.pdb
 C:\Users\XALPE\Documents\Programmering\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.dll
 C:\Users\XALPE\Documents\Programmering\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.pdb
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.deps.json
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.runtimeconfig.json
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.runtimeconfig.dev.json
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.dll
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.pdb
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.csprojAssemblyReference.cache
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.csproj.CoreCompileInputs.cache
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.AssemblyInfoInputs.cache
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.AssemblyInfo.cs
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.dll
+C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.pdb
