@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\XALPE\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\XALPE\\.nuget\\packages",
+      "C:\\Users\\trapmap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\trapmap\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

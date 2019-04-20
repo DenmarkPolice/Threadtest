@@ -16,13 +16,13 @@ namespace Threadtest
             void sleepyThread()
             {
                 Thread.Sleep(5000);
-                WrY();
+                WrY("S");
                 Thread.Sleep(5000);
-                WrY();
+                WrY("L");
             }
-            void WrY()
+            void WrY(string Letter)
             {
-                for (int i = 0; i < 1000; i++) Console.Write("y");
+                for (int i = 0; i < 1000; i++) Console.Write(Letter);
             }
         }
 

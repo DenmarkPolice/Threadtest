@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XALPE\\Documents\\Programmering\\Threadtest_project\\Threadtest\\Threadtest.csproj": {}
+    "C:\\Users\\trapmap\\Documents\\GitHub\\Threadtest\\Threadtest\\Threadtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XALPE\\Documents\\Programmering\\Threadtest_project\\Threadtest\\Threadtest.csproj": {
+    "C:\\Users\\trapmap\\Documents\\GitHub\\Threadtest\\Threadtest\\Threadtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XALPE\\Documents\\Programmering\\Threadtest_project\\Threadtest\\Threadtest.csproj",
+        "projectUniqueName": "C:\\Users\\trapmap\\Documents\\GitHub\\Threadtest\\Threadtest\\Threadtest.csproj",
         "projectName": "Threadtest",
-        "projectPath": "C:\\Users\\XALPE\\Documents\\Programmering\\Threadtest_project\\Threadtest\\Threadtest.csproj",
-        "packagesPath": "C:\\Users\\XALPE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XALPE\\Documents\\Programmering\\Threadtest_project\\Threadtest\\obj\\",
+        "projectPath": "C:\\Users\\trapmap\\Documents\\GitHub\\Threadtest\\Threadtest\\Threadtest.csproj",
+        "packagesPath": "C:\\Users\\trapmap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trapmap\\Documents\\GitHub\\Threadtest\\Threadtest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\XALPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trapmap\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

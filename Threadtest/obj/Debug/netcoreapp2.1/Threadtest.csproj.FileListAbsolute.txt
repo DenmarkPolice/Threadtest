@@ -20,3 +20,14 @@ C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\n
 C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.AssemblyInfo.cs
 C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.dll
 C:\Users\XALPE\Documents\Programmering\Threadtest_project\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.pdb
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.deps.json
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.runtimeconfig.json
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.runtimeconfig.dev.json
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.dll
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\bin\Debug\netcoreapp2.1\Threadtest.pdb
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.csprojAssemblyReference.cache
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.csproj.CoreCompileInputs.cache
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.AssemblyInfoInputs.cache
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.AssemblyInfo.cs
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.dll
+C:\Users\trapmap\Documents\GitHub\Threadtest\Threadtest\obj\Debug\netcoreapp2.1\Threadtest.pdb
